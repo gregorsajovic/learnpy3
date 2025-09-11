@@ -1,0 +1,7 @@
+# requirements.txt
+# List of dependencies for this project
+
+numpy
+pandas
+matplotlib
+# Add other dependencies here

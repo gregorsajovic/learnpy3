@@ -1,0 +1,14 @@
+INFO 2025-09-10 10:20:06,441 - Our second message.
+DEBUG 2025-09-10 10:20:06,441 - This is a harmles debug message.
+INFO 2025-09-10 10:20:06,441 - Just some useful info.
+WARNING 2025-09-10 10:20:06,441 - I'm sorry, but I can't do that, Dave.
+ERROR 2025-09-10 10:20:06,441 - Did you just try to divide by zero?!
+CRITICAL 2025-09-10 10:20:06,441 - The entire internet is down!!!
+INFO 2025-09-10 10:20:06,441 - quadratic_formula(1, 0, -4)
+DEBUG 2025-09-10 10:20:06,441 - # Compute the discriminant
+DEBUG 2025-09-10 10:20:06,441 - # Compute the two roots
+DEBUG 2025-09-10 10:20:06,441 - # Return the roots
+INFO 2025-09-10 10:20:06,441 - quadratic_formula(1, 0, 1)
+DEBUG 2025-09-10 10:20:06,441 - # Compute the discriminant
+DEBUG 2025-09-10 10:20:06,441 - # Compute the two roots
+DEBUG 2025-09-10 10:20:06,441 - # Return the roots

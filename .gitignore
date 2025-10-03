@@ -18,9 +18,9 @@ ENV/
 # OS-specific files
 .DS_Store
 Thumbs.db
-02 - Vela luka.ogg
-GENERALKA.mp4
-How to Make Progress Every Day No Matter What.mp3
+./data/02 - Vela luka.ogg
+./data/GENERALKA.mp4
+./data/How to Make Progress Every Day No Matter What.mp3
 
 
 # Test / coverage reports

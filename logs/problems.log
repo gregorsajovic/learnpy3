@@ -1,0 +1,10 @@
+INFO:root:Time required for ./data/audio_file.wav = 2.9325485229492188e-05
+ERROR:root:[Errno 2] No such file or directory: './data/audio_file.wav'
+INFO:root:Time required for ./data/audio_file.wav = 0.00012874603271484375
+INFO:root:Time required for ./data/02 - Vela luka.ogg = 0.003204345703125
+INFO:root:Time required for ./data/How to Make Progress Every Day No Matter What.mp3 = 0.022546768188476562
+INFO:root:Time required for ./data/GENERALKA.mp4 = 0.241532564163208
+ERROR:root:[Errno 2] No such file or directory: './data/test_non.png'
+INFO:root:Time required for ./data/test_non.png = 0.0001461505889892578
+ERROR:root:[Errno 2] No such file or directory: './data/test_non.png'
+INFO:root:Time required for ./data/test_non.png = 0.0001552104949951172
